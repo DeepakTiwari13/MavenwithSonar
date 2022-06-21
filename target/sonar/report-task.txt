@@ -1,0 +1,6 @@
+projectKey=org.example:Qualitycheck
+serverUrl=http://172.30.44.115:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://172.30.44.115:9000/dashboard?id=org.example%3AQualitycheck
+ceTaskId=AYF_6Dr6s1S_k9rV5O8k
+ceTaskUrl=http://172.30.44.115:9000/api/ce/task?id=AYF_6Dr6s1S_k9rV5O8k
