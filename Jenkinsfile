@@ -2,9 +2,9 @@ pipeline {
     agent any  
     stages { 
         stage('Build') { 
-            withMaven {
-               sh "mvn clean verify"
-            } 
+            steps {
+                     sh 'mvn clean test'
+                  }
         }
     }
 }
