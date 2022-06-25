@@ -35,7 +35,7 @@
             </activation>
             <properties>
                 <sonar.host.url>
-                    http://192.168.0.129:9000
+                    http://172.17.0.1:9000
                 </sonar.host.url>
             </properties>
         </profile>
