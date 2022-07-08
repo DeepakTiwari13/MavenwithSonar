@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Report') { 
             steps {
-                     sh 'mvn sonar:sonar -Dsonar.login=b2a32b022cec2f60902a7ab811876544af53ec4b'
+                     sh 'mvn sonar:sonar -Dsonar.login=squ_0d8b52fcb016d768d34597fd73b86f083555b2be'
                   }
         }
     }
